@@ -1,4 +1,5 @@
 ## Custom
+# Hack to trigger rebuild
 
 # Set Windows keys
 _K6_WINDOWS = no
